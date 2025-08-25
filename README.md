@@ -14,6 +14,10 @@ With the rapid growth of digital payments, credit card fraud has become a major 
 
 Exploratory Data Analysis (EDA)
 
+Class Imbalance 
+
+Transaction amount Distribution(Fraud vs Non-Fraud)
+
 PCA Visualization of Fraud vs Non-Fraud
 
 Machine Learning Baselines (Logistic Regression, Random Forest, XGBoost, etc.)
